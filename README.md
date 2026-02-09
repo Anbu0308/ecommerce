@@ -1,5 +1,7 @@
-E-Commerce Product & Orders Analysis 
+E-Commerce Product & Orders Analysis
+
 Project Report 
+
 1. PROJECT IMPORTANCE & BUSINESS CONTEXT 
 E-commerce businesses operate in highly competitive markets where decisions must be driven by 
 data. This project focuses on transforming raw order data into meaningful insights that support 
