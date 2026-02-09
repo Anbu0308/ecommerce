@@ -1,0 +1,1001 @@
+order_id,customer_name,order_date,product,category,quantity,price,region
+1001,Ravi,10/9/2022,iPhone 13,Books,2,524.1,North
+1002,Meena,3/9/2023,Samsung A52,Printers,1,156.61,South
+1003,Manoj,1/28/2022,HP Printer,Printers,5,477.79,West
+1004,Manoj,10/12/2022,Mi Band,Printers,1,1541.73,South
+1005,Sneha,6/9/2022,Canon DSLR,Laptops,2,1918.7,East
+1006,Ravi,4/10/2022,Samsung A52,Wearables,3,1710.24,East
+1007,Asha,5/8/2022,Mi Band,Printers,4,249.72,East
+1008,Vikram,7/16/2022,Canon DSLR,Printers,1,187.07,South
+1009,Priya,4/14/2022,Samsung A52,Accessories,4,628.15,East
+1010,Divya,8/3/2022,Canon DSLR,Laptops,3,1433.46,North
+1011,Vikram,9/8/2022,AirPods Pro,Printers,2,978.29,East
+1012,Meena,11/29/2022,Dell Laptop,Books,1,535.19,North
+1013,Karthik,3/9/2022,MacBook Air,Laptops,2,1834.96,East
+1014,Manoj,10/21/2023,Mi Band,Wearables,4,371.46,South
+1015,Manoj,9/27/2022,HP Printer,Printers,5,914.02,West
+1016,Karthik,6/6/2023,Dell Laptop,Accessories,4,272.73,North
+1017,Ravi,6/13/2022,AirPods Pro,Books,4,1233.18,West
+1018,Sneha,6/26/2023,Kindle,Wearables,3,1945.05,North
+1019,Ravi,10/19/2023,HP Printer,Laptops,3,311.95,West
+1020,Divya,9/27/2022,Mi Band,Phones,5,1547.73,North
+1021,Priya,7/23/2022,HP Printer,Printers,2,810.44,South
+1022,Meena,9/6/2023,HP Printer,Phones,3,1028.35,North
+1023,Karthik,3/1/2022,Sony Headphones,Accessories,2,1768.22,North
+1024,Ravi,6/30/2023,Mi Band,Phones,2,343.94,West
+1025,Meena,6/25/2023,AirPods Pro,Laptops,5,903.96,South
+1026,Meena,11/16/2022,Dell Laptop,Books,4,1990.78,East
+1027,Rahul,5/4/2022,HP Printer,Wearables,2,526.92,East
+1028,Asha,8/24/2022,Kindle,Printers,5,518.41,North
+1029,Asha,2/2/2022,Dell Laptop,Phones,3,234.63,South
+1030,Priya,7/7/2023,Mi Band,Accessories,2,1474.37,West
+1031,Manoj,7/14/2022,Mi Band,Wearables,1,284.17,West
+1032,Karthik,4/24/2023,MacBook Air,Wearables,1,1379.39,North
+1033,Asha,12/14/2022,MacBook Air,Books,1,572.45,South
+1034,Meena,3/9/2023,Mi Band,Accessories,2,629.24,South
+1035,Ravi,4/11/2022,Mi Band,Printers,1,1339.08,North
+1036,Ravi,2/21/2023,Dell Laptop,Accessories,4,1014.58,West
+1037,Asha,1/3/2022,AirPods Pro,Wearables,4,603.89,West
+1038,Priya,7/24/2023,MacBook Air,Books,4,394.11,East
+1039,Manoj,7/10/2023,iPhone 13,Printers,1,1521.15,North
+1040,Asha,5/30/2023,Kindle,Wearables,5,399.12,North
+1041,Divya,3/11/2022,Samsung A52,Printers,2,867.17,South
+1042,Vikram,9/27/2023,Kindle,Phones,1,896.53,East
+1043,Priya,11/18/2022,Dell Laptop,Books,2,604.67,South
+1044,Priya,3/16/2022,Mi Band,Laptops,1,970.74,North
+1045,Ravi,6/3/2023,HP Printer,Accessories,3,351.67,East
+1046,Ravi,10/19/2022,Dell Laptop,Laptops,2,932.55,East
+1047,Vikram,11/15/2023,HP Printer,Phones,5,668.82,North
+1048,Divya,4/20/2022,Sony Headphones,Phones,5,395.35,East
+1049,Vikram,12/18/2022,Dell Laptop,Books,2,1406.24,East
+1050,Meena,2/22/2022,Mi Band,Laptops,1,1305.14,East
+1051,Asha,5/14/2022,iPhone 13,Laptops,3,407.01,West
+1052,Meena,1/10/2022,MacBook Air,Printers,1,242.96,South
+1053,Meena,8/20/2023,iPhone 13,Laptops,5,381.38,South
+1054,Asha,2/10/2022,Sony Headphones,Laptops,3,499.15,South
+1055,Ravi,2/21/2023,Canon DSLR,Printers,5,1524.01,South
+1056,Divya,1/26/2022,AirPods Pro,Wearables,2,1499.47,East
+1057,Sneha,6/13/2022,Dell Laptop,Laptops,1,826.83,North
+1058,Rahul,4/17/2023,Dell Laptop,Accessories,3,679.86,South
+1059,Manoj,7/17/2022,iPhone 13,Books,4,723.7,North
+1060,Priya,6/6/2023,Canon DSLR,Books,4,1391.08,East
+1061,Asha,7/2/2022,Samsung A52,Laptops,5,1928.82,East
+1062,Asha,3/21/2023,Samsung A52,Printers,3,1484.24,East
+1063,Sneha,4/29/2022,Kindle,Printers,4,1809.06,South
+1064,Priya,3/23/2023,iPhone 13,Books,1,1087.85,South
+1065,Karthik,11/12/2023,MacBook Air,Phones,3,1284,North
+1066,Priya,11/14/2023,HP Printer,Laptops,4,719.75,East
+1067,Meena,3/7/2023,AirPods Pro,Accessories,4,1386.9,South
+1068,Vikram,2/20/2023,Kindle,Laptops,5,1684.08,East
+1069,Priya,8/17/2023,Dell Laptop,Wearables,5,1343.94,West
+1070,Rahul,8/7/2022,Mi Band,Books,5,999.05,South
+1071,Ravi,11/11/2023,Sony Headphones,Printers,5,736.86,South
+1072,Priya,5/31/2022,Dell Laptop,Accessories,1,187.81,West
+1073,Vikram,3/1/2023,Samsung A52,Wearables,5,469.43,West
+1074,Rahul,6/1/2022,MacBook Air,Accessories,1,1796.05,North
+1075,Sneha,12/14/2023,Dell Laptop,Accessories,5,982.64,South
+1076,Ravi,4/21/2023,Mi Band,Accessories,5,1977,East
+1077,Rahul,6/1/2023,Kindle,Books,4,1678.08,West
+1078,Divya,9/23/2022,Mi Band,Wearables,2,1695.74,East
+1079,Meena,9/2/2022,Mi Band,Books,3,935.76,East
+1080,Manoj,11/24/2022,Sony Headphones,Laptops,5,253.1,South
+1081,Manoj,6/6/2022,MacBook Air,Books,2,222.03,West
+1082,Karthik,3/2/2023,HP Printer,Wearables,1,492.99,West
+1083,Sneha,1/21/2022,Kindle,Books,5,822.72,North
+1084,Karthik,3/6/2023,Sony Headphones,Wearables,5,1520.28,South
+1085,Rahul,3/23/2023,Dell Laptop,Laptops,4,155.15,East
+1086,Sneha,5/11/2022,AirPods Pro,Wearables,5,1114.83,West
+1087,Vikram,1/28/2022,Kindle,Books,1,1321.22,South
+1088,Rahul,9/24/2022,AirPods Pro,Phones,4,721.97,West
+1089,Karthik,10/12/2022,Canon DSLR,Wearables,4,579.32,North
+1090,Rahul,7/7/2023,iPhone 13,Books,1,1999.82,East
+1091,Manoj,2/11/2022,Samsung A52,Books,1,1904.26,South
+1092,Asha,9/2/2022,Kindle,Accessories,2,999.77,North
+1093,Vikram,12/18/2023,Dell Laptop,Wearables,3,1557.11,South
+1094,Vikram,4/28/2022,Kindle,Books,2,1932.97,North
+1095,Vikram,8/13/2023,iPhone 13,Laptops,4,853.64,South
+1096,Ravi,10/5/2023,Kindle,Books,2,293.61,East
+1097,Vikram,2/12/2022,Samsung A52,Printers,3,1112.22,East
+1098,Ravi,12/16/2022,HP Printer,Books,1,1714.19,West
+1099,Ravi,10/13/2023,MacBook Air,Laptops,4,1443.89,West
+1100,Divya,10/4/2022,HP Printer,Books,5,1635.58,West
+1101,Rahul,8/30/2023,MacBook Air,Books,3,712.38,South
+1102,Ravi,9/7/2022,Sony Headphones,Wearables,4,1182.71,West
+1103,Karthik,11/29/2022,iPhone 13,Wearables,2,1026.34,East
+1104,Priya,9/3/2023,Canon DSLR,Laptops,3,1156,South
+1105,Ravi,2/21/2023,Dell Laptop,Books,4,1154.83,South
+1106,Rahul,1/18/2022,Mi Band,Wearables,1,659.05,West
+1107,Manoj,8/19/2023,Sony Headphones,Books,3,999.19,East
+1108,Sneha,12/27/2022,HP Printer,Laptops,4,614.74,East
+1109,Manoj,7/17/2022,Samsung A52,Books,3,327.15,South
+1110,Manoj,5/11/2023,Dell Laptop,Books,3,1476.71,East
+1111,Ravi,8/21/2022,Dell Laptop,Laptops,3,440.94,North
+1112,Meena,2/16/2022,AirPods Pro,Laptops,1,1151.38,South
+1113,Rahul,8/11/2023,Samsung A52,Phones,3,991.85,West
+1114,Karthik,9/16/2022,AirPods Pro,Phones,4,316.77,North
+1115,Sneha,8/14/2023,Mi Band,Phones,1,388.28,East
+1116,Ravi,7/26/2023,Dell Laptop,Phones,4,1252,South
+1117,Meena,3/30/2023,MacBook Air,Wearables,3,1734.32,West
+1118,Priya,3/3/2022,Kindle,Printers,5,1924.21,North
+1119,Manoj,11/8/2023,Dell Laptop,Laptops,1,398.41,South
+1120,Meena,1/3/2022,Samsung A52,Accessories,4,955.96,West
+1121,Priya,10/23/2022,iPhone 13,Accessories,3,1435.68,West
+1122,Ravi,10/3/2023,Dell Laptop,Laptops,5,1356.25,South
+1123,Sneha,8/19/2022,Samsung A52,Printers,2,1825.98,South
+1124,Ravi,11/11/2022,iPhone 13,Accessories,5,1523.02,East
+1125,Rahul,12/7/2023,Samsung A52,Wearables,3,1429.49,East
+1126,Meena,3/25/2023,HP Printer,Wearables,1,1236.27,West
+1127,Karthik,1/27/2022,Kindle,Laptops,1,534.96,North
+1128,Priya,6/29/2022,Kindle,Phones,4,1086.03,West
+1129,Priya,3/23/2023,AirPods Pro,Printers,4,1941.2,West
+1130,Karthik,11/25/2022,MacBook Air,Laptops,1,1729.69,East
+1131,Sneha,11/10/2023,Mi Band,Laptops,4,1645.78,North
+1132,Rahul,9/16/2022,Samsung A52,Laptops,3,320.25,West
+1133,Meena,7/10/2023,iPhone 13,Books,4,885.17,South
+1134,Meena,5/26/2023,Canon DSLR,Printers,4,1543.98,South
+1135,Priya,10/22/2022,HP Printer,Accessories,4,1773.61,West
+1136,Ravi,9/16/2023,iPhone 13,Books,2,1448.59,East
+1137,Meena,2/22/2023,iPhone 13,Printers,1,526.93,North
+1138,Rahul,6/7/2022,Samsung A52,Books,4,1872.04,East
+1139,Meena,5/10/2023,Sony Headphones,Wearables,4,563.09,South
+1140,Sneha,6/5/2023,Dell Laptop,Printers,2,1741.65,East
+1141,Sneha,10/1/2022,Canon DSLR,Printers,1,637.39,East
+1142,Vikram,5/17/2023,Kindle,Books,2,948.44,West
+1143,Karthik,7/11/2023,Canon DSLR,Printers,4,965.15,East
+1144,Manoj,1/28/2023,Dell Laptop,Printers,2,1726.42,West
+1145,Asha,4/30/2023,Canon DSLR,Books,4,833.55,South
+1146,Rahul,5/30/2023,iPhone 13,Accessories,5,730.79,North
+1147,Rahul,4/13/2023,Samsung A52,Printers,1,1472.64,West
+1148,Divya,9/29/2022,Samsung A52,Wearables,3,1284.19,West
+1149,Ravi,7/1/2023,Canon DSLR,Books,4,1912.87,West
+1150,Meena,3/12/2022,iPhone 13,Printers,2,1299.21,East
+1151,Manoj,4/11/2022,Samsung A52,Wearables,1,942.99,East
+1152,Asha,2/27/2022,iPhone 13,Laptops,3,781.08,West
+1153,Divya,2/26/2023,Dell Laptop,Printers,5,1395.42,South
+1154,Divya,9/17/2023,AirPods Pro,Phones,4,1277.45,South
+1155,Rahul,8/26/2022,Kindle,Accessories,4,1312.02,West
+1156,Priya,10/22/2022,iPhone 13,Wearables,5,400.15,West
+1157,Karthik,10/17/2023,Kindle,Laptops,4,1411.6,West
+1158,Priya,5/10/2023,Dell Laptop,Wearables,1,550.69,East
+1159,Vikram,10/30/2022,Sony Headphones,Books,1,1958.09,West
+1160,Priya,12/4/2023,iPhone 13,Printers,1,1830.17,West
+1161,Priya,12/27/2022,Dell Laptop,Printers,2,1309.57,East
+1162,Divya,10/24/2023,Samsung A52,Books,1,686.97,West
+1163,Asha,5/15/2022,Kindle,Laptops,1,1828.29,East
+1164,Sneha,5/16/2022,AirPods Pro,Accessories,5,1765.28,East
+1165,Meena,6/18/2022,HP Printer,Laptops,3,1836.69,West
+1166,Priya,4/25/2023,Canon DSLR,Phones,1,367.44,South
+1167,Sneha,4/3/2022,HP Printer,Laptops,4,126.45,North
+1168,Rahul,11/20/2023,Canon DSLR,Books,3,1210.66,East
+1169,Ravi,1/26/2022,Dell Laptop,Wearables,5,1780.05,East
+1170,Vikram,3/6/2022,Dell Laptop,Books,4,1827.84,East
+1171,Sneha,2/16/2022,Samsung A52,Accessories,1,678.29,West
+1172,Ravi,7/5/2023,Samsung A52,Accessories,2,838.43,East
+1173,Meena,6/8/2022,MacBook Air,Printers,4,1344.35,West
+1174,Vikram,2/3/2022,MacBook Air,Laptops,3,512.81,West
+1175,Manoj,12/4/2023,Canon DSLR,Phones,3,1134.49,East
+1176,Asha,7/14/2022,MacBook Air,Laptops,1,1903.12,West
+1177,Ravi,10/17/2023,Dell Laptop,Books,5,1945.08,North
+1178,Karthik,8/2/2023,Dell Laptop,Accessories,2,230.36,South
+1179,Vikram,12/3/2022,Dell Laptop,Accessories,2,1598.42,North
+1180,Priya,7/8/2023,AirPods Pro,Accessories,3,1617.18,North
+1181,Asha,1/2/2023,AirPods Pro,Phones,2,1218.82,North
+1182,Divya,5/10/2022,Sony Headphones,Phones,4,1099.56,North
+1183,Rahul,6/10/2023,Mi Band,Laptops,5,307.2,South
+1184,Vikram,11/6/2023,iPhone 13,Books,5,673.1,North
+1185,Asha,3/13/2023,Mi Band,Wearables,1,1031.51,West
+1186,Ravi,9/15/2023,Samsung A52,Laptops,2,224.8,East
+1187,Vikram,12/31/2023,Kindle,Printers,3,823.72,East
+1188,Rahul,3/17/2023,HP Printer,Printers,1,1606.88,North
+1189,Meena,4/8/2023,Dell Laptop,Wearables,2,886.25,West
+1190,Sneha,4/8/2022,MacBook Air,Books,3,910.85,East
+1191,Karthik,5/1/2023,AirPods Pro,Books,1,273.33,North
+1192,Ravi,1/17/2023,MacBook Air,Phones,2,1157.1,East
+1193,Ravi,11/13/2023,MacBook Air,Laptops,4,1749.38,North
+1194,Priya,12/27/2022,Kindle,Laptops,1,1198.05,South
+1195,Divya,4/21/2022,Mi Band,Accessories,3,1706.21,East
+1196,Ravi,8/20/2022,Sony Headphones,Printers,4,1705.79,North
+1197,Vikram,7/4/2022,Sony Headphones,Phones,3,1435.13,East
+1198,Karthik,7/5/2022,Canon DSLR,Phones,2,1176.01,West
+1199,Ravi,10/11/2023,AirPods Pro,Books,1,274.34,South
+1200,Sneha,12/16/2022,MacBook Air,Wearables,2,803.1,East
+1201,Vikram,2/23/2022,Kindle,Phones,2,399.08,North
+1202,Ravi,11/9/2023,Sony Headphones,Wearables,4,1022.76,West
+1203,Sneha,6/9/2023,Sony Headphones,Accessories,1,755.83,North
+1204,Priya,6/24/2023,Kindle,Wearables,3,186.29,West
+1205,Vikram,7/29/2022,iPhone 13,Phones,3,1896.12,South
+1206,Priya,5/3/2022,Sony Headphones,Laptops,1,1045.03,West
+1207,Divya,6/30/2023,AirPods Pro,Wearables,2,1050.5,East
+1208,Ravi,2/13/2022,MacBook Air,Books,4,135.61,North
+1209,Karthik,8/11/2023,Kindle,Wearables,4,1448.05,West
+1210,Priya,1/22/2022,Samsung A52,Wearables,3,426.56,West
+1211,Karthik,4/19/2022,Samsung A52,Wearables,2,927.79,West
+1212,Meena,11/14/2022,Samsung A52,Wearables,3,520.99,South
+1213,Ravi,4/27/2022,HP Printer,Books,5,1068.91,East
+1214,Karthik,4/16/2022,AirPods Pro,Accessories,2,586.34,South
+1215,Vikram,3/19/2022,AirPods Pro,Books,2,1907.46,West
+1216,Rahul,4/5/2023,Kindle,Printers,5,1321.68,East
+1217,Karthik,3/11/2022,AirPods Pro,Wearables,4,940.2,East
+1218,Priya,12/27/2022,Kindle,Phones,5,240.96,West
+1219,Rahul,1/13/2023,iPhone 13,Phones,3,245.79,North
+1220,Vikram,1/29/2023,Kindle,Printers,4,1202.63,North
+1221,Rahul,7/12/2022,Kindle,Books,3,1249.51,South
+1222,Asha,12/18/2022,Mi Band,Phones,1,1058.64,South
+1223,Asha,3/25/2023,Dell Laptop,Books,4,1095.73,South
+1224,Karthik,2/1/2023,Canon DSLR,Laptops,4,1571.48,North
+1225,Karthik,4/7/2022,Samsung A52,Laptops,5,1388.92,East
+1226,Priya,12/8/2022,Kindle,Accessories,1,1207.21,South
+1227,Karthik,12/17/2023,Sony Headphones,Books,4,345.01,North
+1228,Priya,10/21/2023,HP Printer,Wearables,3,1645.05,North
+1229,Sneha,1/19/2022,HP Printer,Laptops,3,686.85,South
+1230,Karthik,8/20/2022,Mi Band,Accessories,2,394.4,East
+1231,Ravi,6/24/2023,HP Printer,Printers,1,1357.67,South
+1232,Vikram,6/16/2022,MacBook Air,Accessories,2,1679.56,South
+1233,Rahul,1/9/2023,iPhone 13,Wearables,2,1942.22,East
+1234,Rahul,9/2/2022,Dell Laptop,Printers,3,1934.63,West
+1235,Manoj,8/8/2023,Canon DSLR,Books,4,977.19,East
+1236,Sneha,3/5/2023,HP Printer,Printers,2,1652.09,South
+1237,Priya,5/8/2023,iPhone 13,Books,3,1153.63,North
+1238,Meena,3/27/2022,Samsung A52,Laptops,2,618.3,South
+1239,Sneha,4/7/2023,Samsung A52,Accessories,3,1867.9,West
+1240,Asha,1/18/2023,MacBook Air,Printers,2,833.72,North
+1241,Karthik,11/23/2022,Dell Laptop,Phones,1,1694.43,East
+1242,Divya,10/21/2022,AirPods Pro,Phones,4,1422.54,South
+1243,Rahul,1/6/2022,Mi Band,Printers,1,136.11,South
+1244,Divya,9/16/2023,HP Printer,Books,5,904.18,East
+1245,Manoj,2/18/2022,Sony Headphones,Phones,2,897.67,West
+1246,Ravi,9/4/2023,Samsung A52,Wearables,5,131.23,South
+1247,Divya,1/2/2022,Sony Headphones,Wearables,5,770.35,West
+1248,Divya,1/5/2023,Samsung A52,Printers,1,1911.47,North
+1249,Sneha,10/13/2023,Mi Band,Phones,4,1963.97,East
+1250,Asha,12/20/2022,Canon DSLR,Phones,2,1492.59,North
+1251,Vikram,2/15/2022,Canon DSLR,Accessories,3,1137.43,South
+1252,Rahul,7/6/2022,Mi Band,Books,2,219.89,West
+1253,Asha,2/14/2022,Sony Headphones,Accessories,2,1783,East
+1254,Priya,7/11/2023,HP Printer,Wearables,4,581.3,South
+1255,Priya,11/3/2023,Canon DSLR,Phones,3,619.11,East
+1256,Sneha,3/27/2023,MacBook Air,Books,4,744.17,South
+1257,Rahul,6/16/2023,Mi Band,Laptops,3,1622.18,West
+1258,Ravi,7/4/2022,MacBook Air,Printers,5,658.16,North
+1259,Ravi,10/30/2022,Canon DSLR,Books,3,947.24,West
+1260,Divya,4/3/2023,Mi Band,Laptops,1,1480.95,East
+1261,Vikram,10/17/2023,MacBook Air,Laptops,1,242.58,West
+1262,Karthik,11/27/2023,HP Printer,Books,2,1910.3,South
+1263,Vikram,5/10/2022,Mi Band,Phones,1,548.39,East
+1264,Karthik,2/3/2022,MacBook Air,Printers,5,391.53,West
+1265,Karthik,3/20/2022,Canon DSLR,Wearables,5,361.62,East
+1266,Sneha,10/13/2022,Canon DSLR,Books,2,1924.99,North
+1267,Divya,2/1/2023,Mi Band,Printers,5,323.75,East
+1268,Rahul,10/20/2022,Dell Laptop,Printers,4,480.34,South
+1269,Ravi,1/1/2024,Mi Band,Accessories,4,1994.8,East
+1270,Karthik,7/10/2023,Samsung A52,Printers,3,1793.53,South
+1271,Divya,8/18/2022,Canon DSLR,Printers,1,1971.75,South
+1272,Manoj,1/5/2023,Mi Band,Phones,5,1187.33,West
+1273,Meena,3/30/2022,AirPods Pro,Printers,1,687.65,West
+1274,Meena,8/12/2023,MacBook Air,Wearables,1,338.12,East
+1275,Ravi,11/28/2023,Mi Band,Wearables,5,754.58,South
+1276,Divya,2/26/2022,MacBook Air,Printers,1,1084.39,East
+1277,Divya,12/28/2023,AirPods Pro,Laptops,2,757.44,East
+1278,Ravi,10/13/2023,Sony Headphones,Accessories,5,621.46,East
+1279,Vikram,5/30/2023,HP Printer,Phones,2,1224.44,South
+1280,Divya,9/12/2023,Kindle,Books,3,1700.81,North
+1281,Asha,10/19/2023,Samsung A52,Phones,5,602.85,South
+1282,Vikram,10/17/2023,MacBook Air,Printers,1,1046.27,East
+1283,Priya,12/3/2023,Mi Band,Accessories,4,665.12,North
+1284,Asha,3/2/2023,AirPods Pro,Wearables,4,982.44,East
+1285,Vikram,11/23/2022,AirPods Pro,Laptops,3,1953.21,South
+1286,Karthik,4/19/2022,HP Printer,Printers,3,559.3,North
+1287,Priya,5/25/2022,Mi Band,Accessories,1,196.15,West
+1288,Vikram,6/13/2022,MacBook Air,Accessories,3,1874.13,East
+1289,Manoj,6/12/2023,AirPods Pro,Wearables,4,1047.64,East
+1290,Rahul,2/7/2023,iPhone 13,Phones,5,968.74,South
+1291,Manoj,2/19/2022,Kindle,Laptops,1,634.58,West
+1292,Priya,4/21/2022,HP Printer,Phones,4,354.48,East
+1293,Karthik,2/16/2022,MacBook Air,Laptops,4,197.2,South
+1294,Karthik,3/17/2022,HP Printer,Laptops,4,1058.09,East
+1295,Vikram,5/12/2022,Kindle,Phones,1,848.42,East
+1296,Meena,7/23/2022,Canon DSLR,Accessories,5,1067.33,North
+1297,Asha,1/1/2024,iPhone 13,Accessories,3,1627.54,West
+1298,Divya,5/24/2022,Kindle,Printers,3,1869.6,East
+1299,Divya,11/3/2022,MacBook Air,Printers,5,739.11,West
+1300,Vikram,1/18/2022,Sony Headphones,Wearables,3,729.36,North
+1301,Sneha,12/6/2023,Kindle,Laptops,1,1234.13,East
+1302,Vikram,2/22/2022,Kindle,Accessories,5,1012.85,West
+1303,Divya,8/10/2023,Dell Laptop,Phones,1,462.49,West
+1304,Karthik,2/27/2023,MacBook Air,Accessories,2,879.72,West
+1305,Asha,8/1/2022,AirPods Pro,Printers,5,717.59,West
+1306,Meena,6/27/2022,MacBook Air,Laptops,4,1833.04,East
+1307,Meena,11/29/2023,Canon DSLR,Books,3,1259.15,South
+1308,Manoj,11/2/2022,Sony Headphones,Printers,2,1888.82,East
+1309,Priya,12/23/2023,Dell Laptop,Books,4,702.38,East
+1310,Meena,5/5/2022,Sony Headphones,Laptops,5,1385.58,West
+1311,Sneha,10/25/2022,Canon DSLR,Accessories,1,646.5,North
+1312,Karthik,9/20/2022,Mi Band,Books,4,506.57,East
+1313,Meena,4/22/2022,Sony Headphones,Accessories,5,1507.69,South
+1314,Manoj,6/28/2023,iPhone 13,Books,2,1312.09,North
+1315,Ravi,4/29/2023,MacBook Air,Laptops,1,1394.26,South
+1316,Asha,2/21/2023,HP Printer,Accessories,4,1007.15,South
+1317,Priya,10/24/2023,Canon DSLR,Laptops,1,1825.08,North
+1318,Vikram,2/8/2022,Dell Laptop,Printers,2,893.98,South
+1319,Asha,7/10/2022,MacBook Air,Wearables,3,1765.81,North
+1320,Priya,4/20/2022,Kindle,Printers,3,640.67,West
+1321,Divya,10/7/2022,HP Printer,Wearables,2,1636.75,East
+1322,Divya,9/21/2022,Mi Band,Books,2,126.76,East
+1323,Priya,7/17/2022,Kindle,Books,2,1260.81,West
+1324,Sneha,3/30/2022,HP Printer,Laptops,4,1371.59,South
+1325,Divya,9/12/2022,Mi Band,Laptops,1,595.49,South
+1326,Rahul,11/6/2022,Sony Headphones,Laptops,5,1473.48,North
+1327,Priya,8/30/2022,Canon DSLR,Books,1,1368.79,West
+1328,Priya,12/4/2023,AirPods Pro,Wearables,5,1853.9,East
+1329,Ravi,9/22/2023,Sony Headphones,Laptops,2,516.34,South
+1330,Rahul,9/13/2023,AirPods Pro,Wearables,3,890.11,West
+1331,Meena,11/28/2023,Dell Laptop,Accessories,5,1758.96,North
+1332,Meena,12/22/2023,Mi Band,Printers,3,248.4,North
+1333,Asha,7/27/2022,HP Printer,Printers,5,1119.65,South
+1334,Karthik,4/30/2022,HP Printer,Wearables,2,1462.14,West
+1335,Ravi,2/26/2022,HP Printer,Wearables,4,350.69,West
+1336,Rahul,7/27/2023,Kindle,Phones,4,1378.26,East
+1337,Asha,1/4/2022,MacBook Air,Laptops,2,1198.79,North
+1338,Sneha,3/7/2022,Canon DSLR,Books,5,1988.83,North
+1339,Rahul,2/23/2023,iPhone 13,Laptops,2,1561.05,West
+1340,Karthik,1/22/2023,MacBook Air,Wearables,4,252.47,South
+1341,Karthik,7/5/2023,Samsung A52,Accessories,4,1104.8,South
+1342,Asha,4/20/2023,iPhone 13,Laptops,5,905.84,West
+1343,Manoj,12/21/2022,Dell Laptop,Wearables,2,623.73,North
+1344,Asha,1/17/2022,MacBook Air,Printers,2,491.56,North
+1345,Vikram,9/5/2023,iPhone 13,Wearables,1,564.99,North
+1346,Sneha,7/7/2023,Mi Band,Accessories,2,1533.33,North
+1347,Divya,8/28/2022,HP Printer,Laptops,5,705.92,East
+1348,Manoj,11/8/2023,Sony Headphones,Accessories,5,519.98,East
+1349,Priya,8/29/2023,iPhone 13,Printers,2,1289.39,West
+1350,Meena,12/19/2022,Mi Band,Phones,4,1593.03,East
+1351,Sneha,11/4/2022,MacBook Air,Accessories,4,449.37,West
+1352,Manoj,12/26/2023,Dell Laptop,Laptops,2,1630.97,North
+1353,Meena,7/25/2023,MacBook Air,Wearables,5,354.78,South
+1354,Priya,10/25/2023,Dell Laptop,Laptops,1,1852.23,East
+1355,Ravi,7/15/2022,HP Printer,Books,1,610.08,North
+1356,Ravi,11/19/2023,Dell Laptop,Printers,5,512.33,South
+1357,Karthik,8/5/2022,Sony Headphones,Phones,2,1927.95,North
+1358,Rahul,9/11/2023,Dell Laptop,Books,2,853.6,South
+1359,Meena,1/25/2023,Canon DSLR,Laptops,4,1113.94,East
+1360,Priya,6/10/2023,Sony Headphones,Laptops,4,985.41,West
+1361,Karthik,11/17/2022,Dell Laptop,Laptops,4,186.86,South
+1362,Divya,7/21/2023,iPhone 13,Laptops,5,1200.37,West
+1363,Priya,12/4/2022,AirPods Pro,Accessories,2,821.7,South
+1364,Rahul,12/3/2023,HP Printer,Books,3,588.92,West
+1365,Rahul,12/27/2022,Mi Band,Accessories,2,365.92,West
+1366,Divya,3/2/2022,HP Printer,Books,5,164.27,North
+1367,Asha,5/21/2022,iPhone 13,Wearables,2,229.14,South
+1368,Asha,4/12/2023,Dell Laptop,Printers,3,214.86,West
+1369,Rahul,6/29/2023,iPhone 13,Phones,5,881.54,North
+1370,Meena,10/21/2022,Sony Headphones,Printers,1,1054.21,West
+1371,Divya,6/21/2023,Samsung A52,Phones,2,557.84,East
+1372,Karthik,3/22/2022,Sony Headphones,Wearables,3,1922.67,West
+1373,Vikram,8/20/2022,Dell Laptop,Books,3,1399.68,North
+1374,Asha,1/24/2023,Samsung A52,Wearables,4,1150.13,North
+1375,Asha,5/27/2023,AirPods Pro,Phones,4,1325.32,East
+1376,Vikram,2/13/2022,Samsung A52,Printers,2,501.69,West
+1377,Priya,12/2/2023,iPhone 13,Phones,3,1808.69,North
+1378,Divya,8/1/2022,Canon DSLR,Phones,5,373.96,West
+1379,Ravi,8/1/2023,Sony Headphones,Accessories,2,1176.72,West
+1380,Meena,5/24/2022,Canon DSLR,Wearables,1,1051.51,East
+1381,Asha,8/26/2022,Samsung A52,Wearables,1,747.13,West
+1382,Karthik,10/7/2022,iPhone 13,Books,4,1032.15,East
+1383,Meena,7/10/2022,MacBook Air,Wearables,5,1355.28,North
+1384,Vikram,1/1/2024,Sony Headphones,Accessories,1,255.87,South
+1385,Sneha,2/3/2023,AirPods Pro,Books,3,785.33,North
+1386,Asha,1/4/2023,Sony Headphones,Wearables,3,294.24,North
+1387,Divya,7/25/2023,MacBook Air,Wearables,5,1073.64,North
+1388,Asha,7/22/2023,Samsung A52,Laptops,1,1234.16,East
+1389,Sneha,2/28/2023,iPhone 13,Laptops,4,1580.42,South
+1390,Vikram,12/3/2023,HP Printer,Accessories,4,422.05,East
+1391,Priya,5/30/2022,Sony Headphones,Wearables,1,417.69,East
+1392,Sneha,3/20/2022,Sony Headphones,Wearables,3,578.23,South
+1393,Rahul,7/20/2022,Kindle,Printers,4,303.25,East
+1394,Asha,9/28/2023,MacBook Air,Laptops,4,1627.75,East
+1395,Rahul,10/29/2023,Canon DSLR,Wearables,5,358.64,East
+1396,Vikram,11/18/2022,Dell Laptop,Wearables,2,1932.69,East
+1397,Priya,9/6/2022,Mi Band,Printers,3,814.51,West
+1398,Karthik,7/24/2022,Samsung A52,Printers,5,1994.8,South
+1399,Meena,4/18/2023,iPhone 13,Books,2,933.06,East
+1400,Ravi,5/27/2023,MacBook Air,Books,2,1303.34,South
+1401,Priya,3/10/2023,AirPods Pro,Books,4,240.53,West
+1402,Vikram,6/3/2023,MacBook Air,Printers,4,1132.93,East
+1403,Meena,3/29/2022,Kindle,Books,1,1561.01,East
+1404,Divya,7/31/2023,Kindle,Phones,4,1936.94,East
+1405,Sneha,4/11/2022,Samsung A52,Phones,3,521.8,South
+1406,Rahul,4/20/2023,Canon DSLR,Wearables,5,1411.83,South
+1407,Karthik,4/18/2022,iPhone 13,Wearables,3,890.35,North
+1408,Ravi,11/16/2022,AirPods Pro,Laptops,3,965.13,South
+1409,Meena,5/3/2023,Mi Band,Laptops,1,932.52,West
+1410,Karthik,2/15/2022,Samsung A52,Laptops,1,142.91,East
+1411,Ravi,9/7/2022,AirPods Pro,Books,5,431.46,South
+1412,Karthik,4/19/2023,HP Printer,Wearables,2,1615.74,South
+1413,Divya,1/30/2022,MacBook Air,Wearables,5,1777.89,West
+1414,Vikram,1/5/2022,MacBook Air,Wearables,2,490.99,North
+1415,Vikram,7/11/2022,Samsung A52,Printers,3,719.37,West
+1416,Ravi,5/17/2023,Sony Headphones,Books,5,1935.24,East
+1417,Vikram,2/6/2023,MacBook Air,Printers,5,317.04,East
+1418,Rahul,11/21/2023,Kindle,Accessories,3,1845.5,North
+1419,Divya,9/2/2022,Canon DSLR,Phones,3,322.2,East
+1420,Divya,3/5/2023,HP Printer,Wearables,5,361.95,West
+1421,Sneha,10/13/2023,AirPods Pro,Wearables,5,1417.52,South
+1422,Meena,10/23/2022,AirPods Pro,Wearables,2,455.49,West
+1423,Vikram,1/10/2022,iPhone 13,Laptops,4,359.42,West
+1424,Meena,5/22/2023,HP Printer,Books,4,1400.92,West
+1425,Rahul,3/26/2022,Mi Band,Accessories,5,158.64,South
+1426,Priya,8/19/2022,iPhone 13,Laptops,5,648.47,West
+1427,Vikram,6/8/2023,Mi Band,Printers,1,1188.16,East
+1428,Meena,2/12/2022,Canon DSLR,Printers,4,1138.07,West
+1429,Ravi,2/3/2022,Dell Laptop,Laptops,4,599.35,North
+1430,Rahul,8/3/2022,Samsung A52,Accessories,5,1409.35,West
+1431,Divya,7/31/2022,Kindle,Accessories,2,1630.34,East
+1432,Meena,7/6/2023,Sony Headphones,Printers,2,714.94,East
+1433,Priya,6/11/2023,Kindle,Laptops,1,357.62,West
+1434,Asha,5/10/2022,Sony Headphones,Books,2,574.39,East
+1435,Manoj,5/26/2022,MacBook Air,Wearables,5,1301.56,West
+1436,Sneha,10/11/2023,Mi Band,Phones,1,865.42,East
+1437,Karthik,12/2/2022,Mi Band,Wearables,5,104.7,North
+1438,Rahul,7/2/2023,Canon DSLR,Phones,4,513.88,West
+1439,Manoj,11/27/2022,Mi Band,Laptops,3,741.73,South
+1440,Vikram,11/30/2023,Mi Band,Laptops,1,187.29,West
+1441,Asha,3/28/2023,Samsung A52,Accessories,4,101.28,West
+1442,Manoj,11/6/2022,AirPods Pro,Books,2,1761.4,East
+1443,Ravi,3/26/2022,Canon DSLR,Laptops,3,1362.57,South
+1444,Asha,11/9/2022,MacBook Air,Books,2,915.54,North
+1445,Ravi,5/4/2023,iPhone 13,Accessories,1,352.13,South
+1446,Meena,1/9/2022,Mi Band,Phones,3,1652.51,West
+1447,Divya,8/23/2022,Mi Band,Phones,4,269.73,North
+1448,Ravi,11/3/2022,Canon DSLR,Laptops,2,827.17,South
+1449,Divya,7/31/2023,Samsung A52,Printers,1,1259.61,South
+1450,Rahul,8/7/2022,Canon DSLR,Books,2,1847.8,West
+1451,Manoj,5/24/2022,Samsung A52,Phones,1,1220.19,West
+1452,Karthik,5/24/2022,MacBook Air,Laptops,2,626.24,North
+1453,Manoj,9/7/2023,HP Printer,Printers,5,641.35,North
+1454,Priya,9/14/2023,Dell Laptop,Printers,5,458.43,West
+1455,Priya,5/22/2023,iPhone 13,Accessories,4,314.21,West
+1456,Vikram,1/13/2022,Samsung A52,Printers,3,1874.46,South
+1457,Sneha,1/10/2023,Kindle,Wearables,5,1397.59,West
+1458,Ravi,3/11/2022,iPhone 13,Printers,1,598.15,North
+1459,Asha,10/21/2022,MacBook Air,Printers,5,1557.51,West
+1460,Sneha,7/4/2023,Samsung A52,Books,5,1270.49,East
+1461,Ravi,6/8/2023,Sony Headphones,Phones,2,1951.2,South
+1462,Meena,8/24/2023,Canon DSLR,Wearables,1,689.32,West
+1463,Manoj,3/30/2022,iPhone 13,Accessories,4,320.37,North
+1464,Priya,1/13/2022,AirPods Pro,Phones,2,1432.85,South
+1465,Rahul,6/14/2023,Canon DSLR,Printers,3,417.23,South
+1466,Priya,12/10/2022,Samsung A52,Phones,4,616.76,North
+1467,Priya,3/20/2022,Kindle,Books,4,964.88,East
+1468,Asha,6/20/2022,Mi Band,Printers,3,398.89,North
+1469,Vikram,6/6/2023,Samsung A52,Accessories,1,183.67,North
+1470,Manoj,1/8/2023,iPhone 13,Wearables,4,1848.43,South
+1471,Asha,11/3/2023,HP Printer,Books,4,526.58,South
+1472,Sneha,3/21/2022,Canon DSLR,Laptops,5,808.34,North
+1473,Divya,2/17/2022,Dell Laptop,Printers,4,230.96,West
+1474,Priya,3/30/2022,Sony Headphones,Laptops,5,967.82,East
+1475,Manoj,11/8/2022,Sony Headphones,Printers,5,560.91,East
+1476,Vikram,7/14/2023,Mi Band,Accessories,2,386.08,West
+1477,Asha,12/21/2022,Dell Laptop,Printers,1,1906.88,North
+1478,Sneha,7/30/2022,Sony Headphones,Phones,5,1967.92,West
+1479,Rahul,12/30/2023,iPhone 13,Accessories,3,276.75,South
+1480,Meena,1/17/2023,MacBook Air,Books,4,1951.65,North
+1481,Vikram,5/17/2022,Samsung A52,Printers,4,242.18,North
+1482,Sneha,10/26/2022,AirPods Pro,Accessories,3,1716.74,West
+1483,Karthik,10/6/2022,Canon DSLR,Wearables,2,241.91,South
+1484,Divya,6/9/2022,Kindle,Phones,1,412.31,West
+1485,Karthik,7/3/2023,MacBook Air,Phones,3,1932.81,South
+1486,Rahul,9/29/2022,Sony Headphones,Wearables,1,271.8,East
+1487,Vikram,12/2/2022,iPhone 13,Accessories,2,273.3,South
+1488,Karthik,2/20/2022,MacBook Air,Printers,3,594.32,South
+1489,Asha,7/24/2023,MacBook Air,Wearables,5,574.72,West
+1490,Ravi,1/13/2022,AirPods Pro,Phones,1,1677.71,South
+1491,Divya,1/17/2023,Dell Laptop,Wearables,1,1206.42,East
+1492,Ravi,7/22/2022,iPhone 13,Phones,4,1637.67,North
+1493,Karthik,4/18/2023,Samsung A52,Phones,1,419.18,West
+1494,Sneha,1/27/2023,Mi Band,Phones,4,428.33,South
+1495,Divya,4/2/2023,Sony Headphones,Laptops,2,165.83,South
+1496,Priya,7/18/2023,Mi Band,Wearables,4,215.86,East
+1497,Sneha,7/24/2022,AirPods Pro,Wearables,5,573.38,North
+1498,Sneha,7/12/2023,Canon DSLR,Wearables,4,753.66,East
+1499,Sneha,1/27/2022,Sony Headphones,Accessories,3,1234.52,North
+1500,Priya,6/27/2023,iPhone 13,Wearables,3,1557,South
+1501,Divya,11/4/2023,Samsung A52,Accessories,2,606.4,North
+1502,Manoj,12/30/2022,Kindle,Wearables,2,434.59,East
+1503,Karthik,12/22/2023,Kindle,Phones,3,1900.36,South
+1504,Vikram,7/10/2023,Dell Laptop,Wearables,3,433.56,North
+1505,Ravi,9/9/2023,iPhone 13,Accessories,2,137.86,West
+1506,Asha,7/26/2022,Canon DSLR,Printers,2,747.44,South
+1507,Karthik,6/1/2022,iPhone 13,Phones,5,1438.92,South
+1508,Ravi,3/16/2022,HP Printer,Laptops,3,1438.62,West
+1509,Vikram,11/6/2022,Samsung A52,Laptops,3,359.26,South
+1510,Sneha,11/21/2022,Mi Band,Books,2,1443.65,East
+1511,Manoj,1/23/2023,Kindle,Accessories,3,1494.59,East
+1512,Divya,1/2/2022,AirPods Pro,Books,5,844.04,North
+1513,Divya,9/19/2023,Kindle,Laptops,2,1315.33,North
+1514,Rahul,3/21/2022,AirPods Pro,Laptops,2,758.94,East
+1515,Divya,11/18/2023,Samsung A52,Books,3,948.6,East
+1516,Manoj,3/11/2022,Dell Laptop,Books,3,587.65,North
+1517,Asha,3/25/2023,iPhone 13,Wearables,4,1941.29,West
+1518,Rahul,7/14/2023,MacBook Air,Laptops,4,292.71,West
+1519,Vikram,4/8/2023,Dell Laptop,Accessories,1,1618.47,North
+1520,Priya,9/25/2022,iPhone 13,Laptops,1,240.98,South
+1521,Sneha,3/18/2022,AirPods Pro,Books,5,1889.48,North
+1522,Karthik,5/10/2023,Kindle,Printers,1,919.51,South
+1523,Vikram,2/24/2022,MacBook Air,Accessories,1,729.08,South
+1524,Sneha,7/8/2023,HP Printer,Books,3,1355.14,East
+1525,Manoj,2/7/2023,Samsung A52,Phones,5,1144.36,West
+1526,Divya,1/4/2022,iPhone 13,Laptops,4,266.49,West
+1527,Manoj,7/31/2022,Samsung A52,Phones,2,1312.56,North
+1528,Rahul,2/12/2023,Samsung A52,Laptops,4,1029.28,East
+1529,Ravi,7/9/2022,HP Printer,Wearables,3,1782.44,East
+1530,Divya,9/27/2022,Mi Band,Phones,4,983.61,South
+1531,Priya,6/4/2022,Kindle,Phones,1,262.84,East
+1532,Meena,8/21/2022,MacBook Air,Printers,5,215.87,West
+1533,Meena,12/5/2023,MacBook Air,Printers,4,1188.16,South
+1534,Rahul,2/9/2023,Sony Headphones,Phones,1,1053.99,South
+1535,Ravi,6/21/2022,Mi Band,Accessories,2,1636.08,South
+1536,Asha,12/1/2023,MacBook Air,Phones,4,483.65,South
+1537,Vikram,3/10/2022,Sony Headphones,Laptops,1,837.39,West
+1538,Meena,6/17/2023,Canon DSLR,Laptops,4,1842.61,North
+1539,Vikram,3/6/2023,Kindle,Printers,1,887.44,South
+1540,Vikram,4/13/2022,Kindle,Printers,1,1169.1,North
+1541,Priya,2/25/2023,HP Printer,Laptops,3,827.78,West
+1542,Vikram,2/8/2022,Kindle,Wearables,2,623.29,South
+1543,Vikram,12/12/2023,Kindle,Books,4,173.69,East
+1544,Manoj,5/2/2023,iPhone 13,Books,3,1804.36,North
+1545,Karthik,10/15/2022,Sony Headphones,Laptops,4,1730.65,North
+1546,Manoj,3/30/2023,AirPods Pro,Laptops,3,611.9,West
+1547,Vikram,3/29/2023,Samsung A52,Accessories,2,1835.52,West
+1548,Rahul,2/27/2022,HP Printer,Laptops,5,1603.83,North
+1549,Priya,5/19/2022,HP Printer,Wearables,5,1770.73,North
+1550,Divya,3/1/2022,Dell Laptop,Accessories,2,162.83,North
+1551,Karthik,1/13/2023,Dell Laptop,Laptops,4,1059.74,North
+1552,Asha,5/16/2023,Dell Laptop,Laptops,5,947.6,West
+1553,Vikram,12/19/2022,HP Printer,Laptops,2,1691.54,East
+1554,Ravi,1/31/2023,Sony Headphones,Phones,1,409.52,South
+1555,Manoj,7/31/2022,Dell Laptop,Books,3,1338.02,North
+1556,Asha,10/25/2023,Mi Band,Accessories,2,1242.17,North
+1557,Manoj,11/9/2022,Sony Headphones,Printers,3,905.23,West
+1558,Karthik,8/12/2022,Mi Band,Laptops,4,674.08,West
+1559,Vikram,6/8/2023,Samsung A52,Phones,3,1166.77,East
+1560,Priya,3/7/2022,Samsung A52,Wearables,3,1977.89,East
+1561,Priya,12/30/2023,Sony Headphones,Books,3,457.88,South
+1562,Asha,11/8/2023,Kindle,Wearables,3,1393.44,North
+1563,Rahul,3/5/2023,Sony Headphones,Laptops,4,837.72,North
+1564,Vikram,12/18/2022,Kindle,Accessories,2,1404,West
+1565,Karthik,6/24/2022,HP Printer,Laptops,5,444.16,North
+1566,Rahul,9/22/2022,AirPods Pro,Books,5,1549.54,South
+1567,Karthik,12/30/2022,Samsung A52,Accessories,2,1514,East
+1568,Sneha,9/24/2022,Canon DSLR,Laptops,5,658.7,North
+1569,Rahul,8/21/2023,iPhone 13,Books,5,1894.17,North
+1570,Rahul,5/3/2022,Dell Laptop,Printers,4,1106.69,West
+1571,Asha,7/25/2022,AirPods Pro,Accessories,3,877.46,West
+1572,Divya,7/4/2022,Canon DSLR,Books,1,1026.4,South
+1573,Karthik,4/8/2023,iPhone 13,Phones,3,497.83,South
+1574,Vikram,4/1/2022,AirPods Pro,Wearables,2,1267.51,West
+1575,Sneha,1/28/2023,MacBook Air,Wearables,1,171.68,South
+1576,Karthik,6/28/2023,iPhone 13,Laptops,2,134.04,North
+1577,Manoj,12/19/2022,Dell Laptop,Books,3,344.97,West
+1578,Meena,6/21/2022,Kindle,Laptops,1,1665.3,East
+1579,Priya,6/17/2023,Mi Band,Books,5,1095.82,West
+1580,Divya,1/3/2023,Canon DSLR,Wearables,2,413.28,West
+1581,Asha,5/15/2022,Dell Laptop,Accessories,2,1494.75,South
+1582,Ravi,10/29/2023,Canon DSLR,Books,1,812.87,East
+1583,Meena,9/1/2023,Kindle,Phones,1,1357.74,North
+1584,Asha,3/31/2023,Samsung A52,Wearables,4,334.83,East
+1585,Rahul,12/13/2023,AirPods Pro,Accessories,1,672.12,North
+1586,Meena,9/13/2023,Sony Headphones,Printers,2,895.77,North
+1587,Meena,10/17/2022,Kindle,Phones,1,1591.04,West
+1588,Manoj,9/27/2022,Kindle,Accessories,5,1948.93,East
+1589,Sneha,2/10/2022,Sony Headphones,Accessories,5,1043.07,South
+1590,Rahul,1/3/2022,Canon DSLR,Accessories,1,1376.1,North
+1591,Vikram,4/3/2022,Mi Band,Accessories,5,242.59,North
+1592,Priya,10/31/2022,Dell Laptop,Wearables,3,982.13,North
+1593,Divya,1/4/2023,iPhone 13,Laptops,3,909.39,North
+1594,Ravi,5/22/2022,iPhone 13,Phones,2,724.46,West
+1595,Vikram,4/6/2022,Sony Headphones,Books,3,1648.43,South
+1596,Ravi,4/13/2023,MacBook Air,Wearables,3,1687.85,West
+1597,Sneha,5/16/2022,AirPods Pro,Phones,1,1964.98,South
+1598,Ravi,5/10/2023,MacBook Air,Printers,5,1388.95,South
+1599,Vikram,9/19/2023,MacBook Air,Laptops,1,1738.89,South
+1600,Rahul,2/26/2023,Mi Band,Phones,4,187.35,East
+1601,Karthik,11/26/2023,iPhone 13,Books,5,1558.3,South
+1602,Karthik,12/6/2023,HP Printer,Printers,5,280.96,South
+1603,Rahul,11/24/2023,Canon DSLR,Books,4,382.44,North
+1604,Asha,4/26/2023,AirPods Pro,Printers,4,1751.89,North
+1605,Rahul,12/5/2022,Canon DSLR,Accessories,3,195.67,South
+1606,Meena,8/29/2022,MacBook Air,Wearables,1,972.28,West
+1607,Ravi,11/20/2022,Mi Band,Wearables,1,1963.27,North
+1608,Ravi,2/6/2022,MacBook Air,Wearables,5,1143.29,North
+1609,Vikram,11/8/2022,Kindle,Books,5,1168.43,West
+1610,Karthik,8/17/2022,Canon DSLR,Phones,4,730.75,West
+1611,Karthik,4/10/2022,Mi Band,Phones,2,104.17,East
+1612,Priya,1/18/2023,HP Printer,Printers,1,186.98,South
+1613,Rahul,2/24/2023,AirPods Pro,Books,1,583.15,South
+1614,Manoj,8/9/2022,Samsung A52,Wearables,4,1666.65,South
+1615,Karthik,2/17/2022,Samsung A52,Wearables,5,334.12,West
+1616,Rahul,5/18/2022,Kindle,Printers,4,108.24,North
+1617,Meena,5/10/2023,MacBook Air,Printers,5,1584.05,South
+1618,Vikram,5/12/2022,AirPods Pro,Books,1,836.07,East
+1619,Meena,9/16/2023,MacBook Air,Wearables,2,619.83,East
+1620,Priya,5/22/2022,Mi Band,Accessories,4,1244.8,East
+1621,Meena,7/21/2023,Canon DSLR,Books,2,481.69,East
+1622,Karthik,10/28/2023,AirPods Pro,Books,2,1057.4,East
+1623,Ravi,5/7/2023,Canon DSLR,Printers,5,1184.21,West
+1624,Meena,1/14/2022,Sony Headphones,Wearables,5,302.29,West
+1625,Divya,2/27/2022,iPhone 13,Books,2,607.26,South
+1626,Priya,3/5/2022,Sony Headphones,Accessories,3,487.6,North
+1627,Karthik,9/23/2023,Mi Band,Phones,5,1743.2,West
+1628,Manoj,10/22/2022,HP Printer,Books,1,1860.32,West
+1629,Sneha,2/25/2022,Canon DSLR,Printers,1,1512.97,South
+1630,Vikram,10/11/2023,Mi Band,Accessories,3,1534.7,South
+1631,Manoj,7/1/2022,Sony Headphones,Wearables,1,455.26,South
+1632,Meena,2/11/2022,Samsung A52,Wearables,4,630.31,East
+1633,Divya,9/19/2022,AirPods Pro,Printers,1,728.07,South
+1634,Asha,9/4/2023,AirPods Pro,Laptops,1,1569.96,East
+1635,Rahul,1/2/2023,Kindle,Printers,1,1589.66,East
+1636,Meena,6/18/2023,Dell Laptop,Accessories,1,1593.89,South
+1637,Sneha,2/18/2023,HP Printer,Printers,1,763.87,South
+1638,Karthik,10/28/2022,Canon DSLR,Laptops,2,1905.59,West
+1639,Meena,11/16/2023,iPhone 13,Phones,3,946.77,South
+1640,Asha,4/27/2022,Canon DSLR,Wearables,4,587.52,East
+1641,Asha,6/11/2023,HP Printer,Laptops,5,946.56,North
+1642,Priya,6/11/2023,Dell Laptop,Laptops,1,1901.6,South
+1643,Meena,10/4/2023,HP Printer,Phones,1,500.48,South
+1644,Sneha,7/5/2023,Samsung A52,Accessories,4,1328.47,North
+1645,Divya,12/6/2022,iPhone 13,Wearables,1,266.29,North
+1646,Divya,3/14/2022,Sony Headphones,Printers,5,1661.08,East
+1647,Sneha,10/8/2023,MacBook Air,Wearables,4,922.75,North
+1648,Sneha,1/7/2022,Samsung A52,Printers,5,220.15,North
+1649,Ravi,4/19/2022,Canon DSLR,Printers,3,1595.09,East
+1650,Vikram,3/25/2023,Samsung A52,Laptops,4,850.72,North
+1651,Rahul,8/14/2022,AirPods Pro,Printers,2,1518.83,East
+1652,Divya,10/26/2023,Sony Headphones,Books,3,1919.04,North
+1653,Meena,5/7/2022,HP Printer,Accessories,1,109.56,West
+1654,Meena,11/9/2022,HP Printer,Phones,2,1521.76,East
+1655,Manoj,6/9/2023,MacBook Air,Books,2,405.81,South
+1656,Vikram,4/28/2022,Sony Headphones,Accessories,2,1374.86,North
+1657,Meena,7/17/2023,Mi Band,Books,1,652.24,North
+1658,Priya,8/18/2023,Samsung A52,Accessories,4,1907.93,East
+1659,Divya,10/19/2022,Dell Laptop,Phones,5,232.64,South
+1660,Karthik,12/3/2022,Mi Band,Wearables,5,1352.9,South
+1661,Vikram,11/20/2022,Kindle,Laptops,4,420.42,East
+1662,Manoj,10/19/2023,Dell Laptop,Books,4,625.69,East
+1663,Divya,4/19/2023,Canon DSLR,Wearables,4,781.61,East
+1664,Rahul,6/29/2022,HP Printer,Phones,5,255.75,East
+1665,Divya,9/27/2022,HP Printer,Accessories,1,1482.11,North
+1666,Meena,8/16/2023,iPhone 13,Printers,4,1561.48,South
+1667,Asha,7/11/2023,HP Printer,Laptops,5,997,South
+1668,Karthik,8/27/2023,MacBook Air,Accessories,3,354.37,North
+1669,Sneha,1/11/2022,Canon DSLR,Printers,2,1711.17,South
+1670,Meena,6/13/2022,AirPods Pro,Wearables,2,1176.08,South
+1671,Rahul,8/13/2022,Canon DSLR,Phones,4,540.32,East
+1672,Karthik,11/16/2023,Dell Laptop,Phones,2,1083.98,East
+1673,Sneha,2/17/2022,Mi Band,Wearables,1,1963.12,East
+1674,Ravi,10/8/2022,HP Printer,Books,3,1199.4,South
+1675,Sneha,8/25/2023,MacBook Air,Laptops,1,1081.66,West
+1676,Manoj,12/28/2022,HP Printer,Wearables,3,1025.04,West
+1677,Vikram,5/23/2022,iPhone 13,Printers,4,414.65,North
+1678,Meena,6/3/2022,Sony Headphones,Accessories,2,398.98,North
+1679,Manoj,4/27/2022,MacBook Air,Laptops,4,1382.94,West
+1680,Manoj,10/25/2023,Kindle,Accessories,4,142.65,North
+1681,Divya,6/14/2022,Kindle,Printers,2,1296.13,North
+1682,Vikram,6/20/2022,AirPods Pro,Phones,3,1852.65,West
+1683,Vikram,1/20/2022,Kindle,Books,3,1899.78,South
+1684,Rahul,5/9/2023,Kindle,Wearables,2,516.79,West
+1685,Vikram,7/6/2022,AirPods Pro,Printers,5,1353.33,East
+1686,Divya,9/3/2023,Canon DSLR,Wearables,5,230.8,West
+1687,Sneha,1/17/2022,AirPods Pro,Phones,2,1093.15,West
+1688,Divya,7/1/2022,Kindle,Phones,4,1813.06,North
+1689,Meena,4/6/2022,HP Printer,Phones,4,1352.85,North
+1690,Sneha,1/15/2023,HP Printer,Wearables,1,1425.52,West
+1691,Manoj,12/25/2022,Mi Band,Wearables,5,1628.78,North
+1692,Sneha,5/4/2023,AirPods Pro,Laptops,2,1829.16,North
+1693,Priya,2/23/2023,Kindle,Printers,3,459.14,North
+1694,Vikram,6/17/2023,HP Printer,Phones,1,812.56,South
+1695,Karthik,4/20/2022,MacBook Air,Laptops,2,909.54,East
+1696,Priya,8/2/2023,HP Printer,Wearables,3,1262.57,West
+1697,Manoj,7/25/2023,MacBook Air,Printers,4,439.57,West
+1698,Priya,12/19/2022,Sony Headphones,Printers,4,1497.99,North
+1699,Manoj,6/15/2022,Mi Band,Books,1,507.47,West
+1700,Karthik,12/15/2023,HP Printer,Printers,1,405.4,North
+1701,Ravi,9/7/2023,AirPods Pro,Wearables,4,267.47,East
+1702,Manoj,9/16/2023,Canon DSLR,Phones,1,1476.54,West
+1703,Vikram,12/30/2023,HP Printer,Laptops,5,209.18,South
+1704,Rahul,7/26/2022,Mi Band,Phones,5,643.41,North
+1705,Vikram,12/17/2023,HP Printer,Printers,2,1268.86,North
+1706,Karthik,1/1/2022,Dell Laptop,Books,2,265,East
+1707,Sneha,2/9/2023,Canon DSLR,Books,4,1213.55,North
+1708,Ravi,10/19/2022,Samsung A52,Printers,5,1838.52,East
+1709,Karthik,9/13/2023,Sony Headphones,Accessories,2,964.04,West
+1710,Vikram,6/29/2022,iPhone 13,Laptops,4,1061.85,North
+1711,Meena,4/30/2022,Sony Headphones,Laptops,5,1917.75,East
+1712,Rahul,5/11/2023,MacBook Air,Printers,2,1539.2,West
+1713,Rahul,5/9/2023,Kindle,Phones,1,589.86,West
+1714,Manoj,2/27/2023,Dell Laptop,Laptops,3,1081.36,North
+1715,Priya,4/6/2022,Dell Laptop,Laptops,4,1380.03,East
+1716,Ravi,5/3/2023,HP Printer,Accessories,3,771.72,East
+1717,Divya,7/24/2022,Dell Laptop,Wearables,2,1497.32,East
+1718,Manoj,9/13/2022,Dell Laptop,Accessories,5,776.45,North
+1719,Ravi,11/11/2023,Samsung A52,Books,4,1266.27,North
+1720,Rahul,11/19/2022,Canon DSLR,Printers,4,1806.43,East
+1721,Rahul,10/14/2022,AirPods Pro,Printers,4,521.98,South
+1722,Asha,5/5/2023,HP Printer,Wearables,5,161.87,East
+1723,Sneha,5/4/2022,AirPods Pro,Wearables,5,974.13,North
+1724,Asha,8/18/2023,Dell Laptop,Wearables,1,718.33,East
+1725,Divya,8/31/2022,HP Printer,Laptops,3,995.56,East
+1726,Karthik,3/11/2023,AirPods Pro,Wearables,2,896.28,East
+1727,Karthik,4/7/2023,MacBook Air,Laptops,2,1185.68,South
+1728,Ravi,7/23/2023,Sony Headphones,Accessories,4,1726.99,South
+1729,Divya,1/10/2022,AirPods Pro,Wearables,2,900.89,South
+1730,Meena,11/20/2022,HP Printer,Books,4,670.06,North
+1731,Sneha,6/17/2022,Samsung A52,Books,1,509.39,East
+1732,Rahul,12/9/2022,Samsung A52,Wearables,3,785.83,East
+1733,Karthik,5/5/2022,iPhone 13,Wearables,3,1748,South
+1734,Vikram,10/27/2023,Kindle,Books,5,431.62,East
+1735,Karthik,6/7/2023,Canon DSLR,Books,4,1572.01,West
+1736,Ravi,10/21/2022,MacBook Air,Printers,4,1300.25,South
+1737,Divya,10/9/2023,Canon DSLR,Wearables,5,1186.11,North
+1738,Ravi,8/22/2022,AirPods Pro,Laptops,3,702.07,East
+1739,Priya,2/9/2023,Kindle,Books,3,1786.61,East
+1740,Vikram,2/28/2023,HP Printer,Wearables,2,449.38,North
+1741,Divya,9/15/2022,Dell Laptop,Books,1,500.09,West
+1742,Ravi,4/30/2023,Samsung A52,Phones,5,202.27,West
+1743,Meena,9/26/2022,Samsung A52,Phones,5,395.02,West
+1744,Priya,10/18/2022,Dell Laptop,Accessories,4,1290.31,South
+1745,Meena,2/5/2022,AirPods Pro,Phones,3,1734.7,East
+1746,Rahul,10/6/2022,Mi Band,Printers,5,945.21,South
+1747,Vikram,10/9/2023,Kindle,Wearables,5,926.46,East
+1748,Karthik,8/21/2022,Mi Band,Printers,1,939.53,East
+1749,Sneha,11/7/2022,Sony Headphones,Accessories,1,100.18,South
+1750,Karthik,7/2/2023,Sony Headphones,Wearables,1,1406.76,West
+1751,Rahul,3/17/2023,Sony Headphones,Phones,3,1234.31,North
+1752,Meena,2/26/2023,Canon DSLR,Accessories,5,930.5,South
+1753,Divya,8/14/2022,MacBook Air,Wearables,3,250.5,South
+1754,Meena,12/3/2023,Kindle,Books,3,640.89,East
+1755,Sneha,7/6/2022,Dell Laptop,Phones,2,650.23,West
+1756,Vikram,12/19/2023,Mi Band,Laptops,5,1034.79,East
+1757,Asha,7/2/2023,AirPods Pro,Phones,1,453.28,North
+1758,Priya,3/25/2023,Sony Headphones,Accessories,1,542.34,South
+1759,Asha,12/17/2022,Mi Band,Accessories,4,692,West
+1760,Karthik,2/2/2022,Mi Band,Books,3,252.42,South
+1761,Asha,3/15/2022,Sony Headphones,Wearables,5,993.28,South
+1762,Priya,5/5/2022,MacBook Air,Phones,2,831.12,West
+1763,Manoj,4/17/2023,iPhone 13,Accessories,1,1090.16,South
+1764,Rahul,11/16/2022,MacBook Air,Books,3,401.36,North
+1765,Meena,9/17/2022,HP Printer,Phones,4,1313.19,South
+1766,Karthik,8/12/2022,iPhone 13,Books,1,548.34,West
+1767,Karthik,10/10/2022,iPhone 13,Accessories,5,327.33,South
+1768,Asha,12/9/2023,iPhone 13,Printers,4,1407.97,South
+1769,Karthik,6/11/2022,Samsung A52,Accessories,4,273.66,East
+1770,Asha,10/23/2023,iPhone 13,Laptops,2,1432.52,North
+1771,Divya,11/21/2022,Mi Band,Accessories,5,1598.27,East
+1772,Rahul,12/7/2023,Dell Laptop,Phones,4,780.52,South
+1773,Priya,12/25/2023,iPhone 13,Wearables,4,1162.15,West
+1774,Manoj,7/11/2023,Kindle,Accessories,3,714.99,West
+1775,Priya,6/14/2022,Kindle,Printers,1,1109.16,West
+1776,Priya,1/11/2023,Sony Headphones,Printers,4,101.37,West
+1777,Divya,1/8/2023,iPhone 13,Printers,5,553.69,North
+1778,Meena,6/21/2023,MacBook Air,Accessories,4,1554.89,South
+1779,Vikram,2/24/2023,Sony Headphones,Laptops,3,309.88,North
+1780,Asha,2/2/2022,AirPods Pro,Accessories,2,303.4,South
+1781,Ravi,10/20/2023,iPhone 13,Printers,4,1350.05,East
+1782,Asha,9/13/2023,Canon DSLR,Accessories,1,124.86,South
+1783,Rahul,10/17/2023,Samsung A52,Wearables,1,785.76,West
+1784,Karthik,9/30/2022,iPhone 13,Printers,5,177.24,North
+1785,Priya,6/16/2023,Samsung A52,Accessories,1,292.33,South
+1786,Meena,7/17/2022,MacBook Air,Accessories,5,1348.07,South
+1787,Meena,4/19/2022,HP Printer,Wearables,5,780.13,West
+1788,Sneha,7/4/2022,Samsung A52,Accessories,5,862.96,East
+1789,Divya,3/30/2023,HP Printer,Printers,3,1814.72,East
+1790,Karthik,3/17/2023,MacBook Air,Books,3,1255.99,South
+1791,Sneha,9/18/2022,HP Printer,Books,3,1927.14,West
+1792,Sneha,2/5/2022,iPhone 13,Books,3,1231.95,South
+1793,Priya,8/16/2022,iPhone 13,Laptops,2,1725.87,North
+1794,Priya,7/24/2023,HP Printer,Printers,5,1859.25,South
+1795,Ravi,12/31/2022,iPhone 13,Wearables,2,362.98,East
+1796,Vikram,9/20/2022,Dell Laptop,Accessories,3,274.62,West
+1797,Vikram,3/21/2022,Dell Laptop,Books,3,1606.52,South
+1798,Rahul,9/2/2023,Kindle,Phones,3,171.01,West
+1799,Ravi,12/23/2022,iPhone 13,Laptops,4,891.39,North
+1800,Manoj,10/12/2023,Kindle,Phones,4,202.84,North
+1801,Karthik,6/3/2022,HP Printer,Printers,3,1054.56,South
+1802,Divya,2/7/2023,iPhone 13,Books,4,1530.4,North
+1803,Manoj,2/8/2023,MacBook Air,Laptops,2,351.16,North
+1804,Rahul,2/20/2022,Kindle,Books,5,858.46,North
+1805,Sneha,12/16/2023,HP Printer,Wearables,2,1547.86,West
+1806,Meena,2/9/2023,Dell Laptop,Wearables,5,472.59,South
+1807,Manoj,3/17/2023,Samsung A52,Laptops,3,1401,North
+1808,Ravi,1/10/2023,MacBook Air,Wearables,3,461.93,East
+1809,Vikram,6/23/2022,iPhone 13,Laptops,3,1270.82,West
+1810,Vikram,2/15/2022,AirPods Pro,Wearables,2,479.4,East
+1811,Divya,2/25/2022,Samsung A52,Phones,2,1902.99,South
+1812,Priya,12/12/2023,iPhone 13,Laptops,1,679.72,West
+1813,Asha,7/5/2023,Canon DSLR,Accessories,2,487.22,East
+1814,Meena,5/25/2022,Mi Band,Printers,1,815.55,North
+1815,Priya,10/18/2022,AirPods Pro,Phones,2,1599.46,East
+1816,Asha,1/9/2022,Mi Band,Books,1,838.43,East
+1817,Karthik,10/27/2022,Samsung A52,Phones,4,539.22,West
+1818,Meena,5/12/2023,Samsung A52,Laptops,5,1109.97,South
+1819,Manoj,7/29/2023,HP Printer,Wearables,1,175.53,East
+1820,Karthik,6/10/2022,Mi Band,Wearables,1,758.88,East
+1821,Karthik,5/29/2023,Sony Headphones,Accessories,3,1642.6,East
+1822,Sneha,10/14/2022,iPhone 13,Printers,2,388.25,West
+1823,Divya,1/27/2023,Samsung A52,Books,5,1925.15,South
+1824,Sneha,6/6/2022,Dell Laptop,Printers,4,1944.02,East
+1825,Rahul,7/31/2022,HP Printer,Accessories,2,1203.96,South
+1826,Divya,12/24/2023,Sony Headphones,Books,5,1828.17,West
+1827,Divya,11/22/2022,Kindle,Accessories,1,1158.95,North
+1828,Divya,1/31/2022,Canon DSLR,Accessories,3,1772.25,West
+1829,Sneha,10/15/2023,Sony Headphones,Wearables,3,388.72,South
+1830,Ravi,1/27/2022,AirPods Pro,Accessories,5,1272.2,South
+1831,Vikram,12/5/2023,Dell Laptop,Accessories,1,782.6,West
+1832,Divya,4/26/2023,HP Printer,Printers,3,449.56,West
+1833,Rahul,6/17/2022,Mi Band,Accessories,2,529.92,West
+1834,Asha,8/16/2022,Sony Headphones,Wearables,2,1539.78,North
+1835,Divya,5/17/2023,Mi Band,Printers,3,1746.87,South
+1836,Sneha,9/15/2023,MacBook Air,Phones,4,1468.38,West
+1837,Vikram,7/4/2023,Kindle,Printers,5,1318.65,North
+1838,Meena,4/13/2023,Samsung A52,Wearables,1,1767.78,South
+1839,Meena,2/10/2022,HP Printer,Wearables,5,836.06,North
+1840,Manoj,2/12/2023,Sony Headphones,Wearables,3,1569.99,East
+1841,Rahul,10/29/2022,AirPods Pro,Wearables,5,1846.16,South
+1842,Rahul,5/28/2023,Mi Band,Phones,1,441.57,South
+1843,Sneha,4/7/2023,MacBook Air,Laptops,1,439.87,South
+1844,Rahul,11/28/2022,Samsung A52,Laptops,2,1464.91,North
+1845,Ravi,4/6/2023,Samsung A52,Books,3,262.08,West
+1846,Meena,1/23/2023,Kindle,Accessories,5,823.15,South
+1847,Karthik,6/3/2022,Kindle,Books,2,1750.76,South
+1848,Asha,11/13/2022,MacBook Air,Laptops,4,648.68,South
+1849,Ravi,1/4/2022,AirPods Pro,Accessories,5,1554.25,North
+1850,Rahul,7/11/2023,Mi Band,Wearables,1,1255.17,West
+1851,Manoj,11/7/2023,Dell Laptop,Printers,4,962.1,West
+1852,Ravi,1/7/2022,Kindle,Printers,2,1776.12,East
+1853,Vikram,2/20/2022,HP Printer,Accessories,2,381.69,East
+1854,Asha,11/15/2023,AirPods Pro,Phones,5,1692.23,East
+1855,Karthik,4/22/2022,Samsung A52,Phones,4,1988.1,South
+1856,Priya,12/10/2023,Kindle,Books,5,1187.34,South
+1857,Rahul,2/6/2022,Kindle,Laptops,1,1560.17,East
+1858,Karthik,3/14/2023,MacBook Air,Phones,5,223.36,West
+1859,Divya,10/9/2022,Samsung A52,Books,3,1101.4,South
+1860,Manoj,4/22/2022,Kindle,Phones,5,1486.48,North
+1861,Rahul,10/22/2022,Kindle,Books,4,1256.8,East
+1862,Priya,10/1/2023,HP Printer,Printers,3,1861.5,West
+1863,Meena,7/4/2022,Mi Band,Wearables,5,542.17,East
+1864,Manoj,1/25/2022,iPhone 13,Phones,4,1288.38,North
+1865,Manoj,2/28/2023,Kindle,Wearables,1,734.21,South
+1866,Asha,10/16/2022,Dell Laptop,Books,3,1601.37,East
+1867,Priya,11/28/2022,HP Printer,Printers,1,316.29,East
+1868,Karthik,8/6/2023,MacBook Air,Books,5,1924.21,South
+1869,Manoj,11/20/2023,Canon DSLR,Laptops,4,1840.71,North
+1870,Divya,10/5/2023,Mi Band,Accessories,4,1794.91,East
+1871,Rahul,2/27/2022,MacBook Air,Books,5,668.75,East
+1872,Meena,8/2/2022,HP Printer,Phones,5,1402.44,East
+1873,Ravi,2/1/2022,AirPods Pro,Laptops,3,1968.88,South
+1874,Vikram,7/11/2022,Kindle,Wearables,5,322,East
+1875,Karthik,2/28/2023,iPhone 13,Laptops,1,1044.4,South
+1876,Karthik,8/10/2022,Mi Band,Laptops,5,674.4,North
+1877,Karthik,4/5/2022,iPhone 13,Accessories,4,1061.39,West
+1878,Meena,12/15/2022,AirPods Pro,Accessories,4,1491.64,East
+1879,Karthik,6/13/2023,AirPods Pro,Phones,2,489.86,North
+1880,Rahul,6/19/2023,MacBook Air,Books,1,107.81,North
+1881,Vikram,4/24/2023,Samsung A52,Laptops,1,295.9,East
+1882,Asha,10/17/2023,Kindle,Laptops,2,709.67,South
+1883,Priya,11/23/2022,Sony Headphones,Printers,4,1375.14,East
+1884,Divya,4/28/2022,AirPods Pro,Laptops,1,1920.77,North
+1885,Manoj,7/17/2023,HP Printer,Laptops,3,615,East
+1886,Vikram,3/14/2022,Dell Laptop,Accessories,3,1265.2,East
+1887,Meena,5/14/2022,Mi Band,Phones,1,994.4,North
+1888,Ravi,3/30/2022,MacBook Air,Phones,4,844.64,West
+1889,Vikram,12/7/2022,Canon DSLR,Laptops,2,1454.51,North
+1890,Rahul,4/6/2022,Kindle,Accessories,4,284.8,East
+1891,Rahul,8/18/2022,Mi Band,Accessories,2,1736.08,East
+1892,Karthik,12/18/2023,MacBook Air,Accessories,3,1598.68,East
+1893,Rahul,3/8/2022,Mi Band,Phones,4,314.49,West
+1894,Rahul,12/23/2022,AirPods Pro,Laptops,5,1191.89,North
+1895,Sneha,7/24/2023,Samsung A52,Laptops,1,1605.62,West
+1896,Sneha,9/2/2022,Kindle,Wearables,5,563.01,South
+1897,Rahul,12/15/2022,MacBook Air,Phones,2,1646.44,West
+1898,Sneha,7/12/2023,Kindle,Laptops,2,428.86,North
+1899,Vikram,8/30/2023,Mi Band,Phones,5,979.53,North
+1900,Rahul,2/20/2023,AirPods Pro,Laptops,1,1236.69,West
+1901,Karthik,11/8/2023,Mi Band,Books,1,272.01,South
+1902,Vikram,11/8/2023,iPhone 13,Accessories,2,960.65,East
+1903,Sneha,4/3/2023,Kindle,Printers,2,490.76,East
+1904,Priya,11/8/2022,Kindle,Books,4,1463.8,East
+1905,Ravi,9/19/2023,Kindle,Phones,5,867.98,South
+1906,Priya,7/17/2023,iPhone 13,Laptops,1,101.6,East
+1907,Ravi,8/29/2022,Sony Headphones,Phones,4,1434.22,West
+1908,Karthik,1/26/2023,MacBook Air,Wearables,4,1135.73,South
+1909,Rahul,7/23/2023,AirPods Pro,Accessories,4,1702.32,East
+1910,Sneha,11/18/2023,AirPods Pro,Laptops,2,355.13,North
+1911,Asha,5/14/2023,AirPods Pro,Books,4,1952.45,South
+1912,Ravi,3/2/2023,AirPods Pro,Books,4,1797.81,West
+1913,Vikram,6/6/2023,AirPods Pro,Wearables,4,1148.9,West
+1914,Sneha,7/10/2022,Canon DSLR,Accessories,4,1248.69,West
+1915,Manoj,2/25/2023,HP Printer,Laptops,5,1195.07,North
+1916,Asha,12/23/2023,Kindle,Wearables,3,315.01,West
+1917,Ravi,6/24/2023,AirPods Pro,Books,3,983.38,North
+1918,Meena,9/9/2022,Kindle,Phones,4,1298.26,North
+1919,Meena,9/20/2023,Kindle,Laptops,1,1816.81,North
+1920,Rahul,4/26/2023,Mi Band,Printers,5,1494.25,West
+1921,Karthik,6/21/2022,Sony Headphones,Laptops,1,1420.6,East
+1922,Vikram,10/7/2023,Sony Headphones,Phones,4,1198.47,North
+1923,Priya,10/21/2022,Kindle,Phones,4,256.77,North
+1924,Priya,9/23/2023,Sony Headphones,Accessories,3,622.91,East
+1925,Asha,6/28/2022,Samsung A52,Printers,5,1504.04,West
+1926,Karthik,12/19/2023,AirPods Pro,Laptops,2,1021.35,North
+1927,Karthik,9/2/2023,Samsung A52,Accessories,2,1691.47,West
+1928,Sneha,3/27/2023,Dell Laptop,Books,2,500.63,East
+1929,Asha,2/23/2022,Sony Headphones,Phones,2,981.63,West
+1930,Priya,6/30/2023,Mi Band,Books,2,821.62,West
+1931,Rahul,6/28/2023,Sony Headphones,Accessories,4,122.54,West
+1932,Sneha,12/1/2023,Canon DSLR,Printers,1,284.99,East
+1933,Sneha,10/7/2022,Kindle,Books,3,613.62,North
+1934,Priya,4/18/2023,Kindle,Wearables,2,1495.2,South
+1935,Meena,12/8/2023,Canon DSLR,Books,2,695.21,North
+1936,Asha,2/26/2023,Samsung A52,Phones,1,1098,West
+1937,Karthik,10/18/2022,Dell Laptop,Books,3,466.85,North
+1938,Vikram,9/1/2023,Samsung A52,Phones,2,1905.93,North
+1939,Ravi,5/14/2022,Samsung A52,Printers,4,1347.15,South
+1940,Ravi,10/29/2022,AirPods Pro,Laptops,4,1354.91,North
+1941,Rahul,12/10/2023,Sony Headphones,Wearables,3,588.94,North
+1942,Priya,2/2/2023,iPhone 13,Wearables,3,1992.32,East
+1943,Priya,3/13/2022,AirPods Pro,Wearables,4,1960.9,South
+1944,Vikram,10/23/2023,MacBook Air,Accessories,4,306.02,West
+1945,Manoj,4/19/2022,Kindle,Books,4,1459.26,North
+1946,Asha,8/9/2023,Samsung A52,Phones,3,1576.75,North
+1947,Rahul,10/18/2023,AirPods Pro,Books,1,1872.5,West
+1948,Priya,12/4/2022,AirPods Pro,Books,4,1191.82,West
+1949,Rahul,3/13/2022,MacBook Air,Wearables,5,529.11,West
+1950,Rahul,7/3/2023,Samsung A52,Printers,3,733.54,East
+1951,Sneha,10/25/2023,iPhone 13,Books,1,794.18,East
+1952,Ravi,10/26/2023,Mi Band,Laptops,2,435.57,North
+1953,Sneha,12/14/2023,Dell Laptop,Laptops,4,1803.28,East
+1954,Rahul,3/25/2023,Samsung A52,Books,2,365.89,South
+1955,Asha,5/16/2023,Kindle,Accessories,4,219.69,East
+1956,Rahul,1/17/2022,HP Printer,Wearables,1,744.64,East
+1957,Asha,8/5/2022,MacBook Air,Phones,5,970.9,South
+1958,Vikram,2/7/2022,Dell Laptop,Phones,2,1028.9,North
+1959,Rahul,9/6/2022,Kindle,Phones,2,127.29,North
+1960,Priya,9/18/2023,Samsung A52,Wearables,2,1687.17,North
+1961,Ravi,9/2/2023,Samsung A52,Wearables,5,519.09,South
+1962,Sneha,11/26/2023,Canon DSLR,Books,4,716.05,South
+1963,Karthik,8/31/2023,Dell Laptop,Phones,2,737.46,North
+1964,Priya,6/22/2022,AirPods Pro,Wearables,3,1151.47,West
+1965,Manoj,5/17/2022,Kindle,Phones,1,1603,West
+1966,Divya,3/24/2022,iPhone 13,Wearables,1,113.73,North
+1967,Vikram,12/12/2023,Sony Headphones,Wearables,4,1415.48,South
+1968,Divya,4/7/2023,Sony Headphones,Printers,4,554.58,South
+1969,Vikram,7/4/2022,iPhone 13,Printers,4,1262.89,North
+1970,Priya,1/5/2022,Canon DSLR,Wearables,5,547.71,North
+1971,Meena,1/6/2023,Samsung A52,Printers,5,1064.33,West
+1972,Manoj,7/18/2022,Sony Headphones,Phones,1,1613.56,West
+1973,Rahul,11/18/2023,AirPods Pro,Accessories,1,202.65,East
+1974,Priya,9/15/2022,Dell Laptop,Wearables,3,1271.96,West
+1975,Asha,2/23/2022,Samsung A52,Books,5,434.19,North
+1976,Rahul,3/14/2022,HP Printer,Phones,2,1470.67,East
+1977,Sneha,11/25/2023,Dell Laptop,Books,3,537.12,North
+1978,Karthik,8/31/2022,Dell Laptop,Phones,4,1752.78,West
+1979,Manoj,8/23/2023,Samsung A52,Wearables,4,203.24,West
+1980,Divya,4/11/2023,Dell Laptop,Printers,2,835.93,South
+1981,Rahul,1/3/2023,Dell Laptop,Books,3,484.2,South
+1982,Asha,10/15/2022,Kindle,Phones,2,311.11,West
+1983,Rahul,12/18/2022,MacBook Air,Accessories,2,1784.18,South
+1984,Vikram,7/21/2023,AirPods Pro,Printers,2,264.3,West
+1985,Manoj,4/19/2023,Kindle,Wearables,3,127.56,West
+1986,Manoj,3/21/2023,Dell Laptop,Laptops,5,522.57,South
+1987,Vikram,2/15/2022,iPhone 13,Wearables,1,1983.42,North
+1988,Sneha,5/6/2023,HP Printer,Wearables,1,959.64,South
+1989,Ravi,12/11/2023,HP Printer,Phones,4,1904.87,South
+1990,Karthik,10/26/2023,Sony Headphones,Accessories,1,130.27,East
+1991,Divya,8/21/2023,Mi Band,Printers,1,1955.2,West
+1992,Divya,1/15/2023,MacBook Air,Accessories,4,1437.41,North
+1993,Ravi,12/7/2022,MacBook Air,Books,5,162.16,West
+1994,Priya,8/13/2023,Kindle,Printers,2,1596.61,North
+1995,Vikram,2/26/2022,Canon DSLR,Books,5,1896.11,East
+1996,Asha,1/10/2023,Samsung A52,Wearables,4,1276.35,East
+1997,Karthik,7/27/2023,AirPods Pro,Books,1,1165.44,South
+1998,Divya,7/7/2023,Canon DSLR,Accessories,1,1333.17,South
+1999,Manoj,10/1/2022,Canon DSLR,Laptops,5,1392.43,East
+2000,Asha,12/20/2022,Samsung A52,Laptops,4,1023.83,North

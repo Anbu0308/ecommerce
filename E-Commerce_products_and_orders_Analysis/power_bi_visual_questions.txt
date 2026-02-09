@@ -1,0 +1,6 @@
+Power bi visualization
+1. Which region generates the highest revenue?
+2. Which city contributes the most to overall sales?
+3. Which product has the highest demand?
+4. What is the average order value per customer?
+5. How many premium-category orders exist?
